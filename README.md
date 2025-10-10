@@ -1,2 +1,8 @@
-# ALI-portfolio
-my protfolio website
+---
+title: ali-portfolio
+emoji: 🐳
+colorFrom: blue
+colorTo: yellow
+sdk: static
+pinned: false
+tags:
